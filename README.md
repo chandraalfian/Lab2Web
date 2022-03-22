@@ -142,7 +142,7 @@ CSS Selector terdiri atas selector ID, Selector Class, Dan Selector elemen Selec
 
 ### 1). Lakukan Eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 ```
-
+```
 ![menambahkan_pertanyaan_tugas](img/pertanyaan%20tugas.png)
 
 Di Gambar berikut saya menambahkan **Border-radius:4px** pada nav a: hovernya, karena agar terlihat lebih rapih 
