@@ -171,7 +171,7 @@ Ketika kita mendeklarasikan secara bersamaan antara ***INTERNAL*** ***EKSTERNAL*
 ![no3](img/jawaban%20nomor%203%20css.png)
 
 jadi yang terpanggil adalah ***CSS INLINE*** karena memiliki prioritas tinggi dibanding CSS deklarasi lain nya.
-```
+
 ### 4). Pada sebuah elemen HTML terdapat ID dan Class,apabila masing-masing selector tersebut  terdapat deklarasi CSS , maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! 
 ```html
 (<p id="paragraf-1" class="text-paragraf">)
